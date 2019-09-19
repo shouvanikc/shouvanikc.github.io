@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Shouvanik"
 author_profile: true
 redirect_from: 
