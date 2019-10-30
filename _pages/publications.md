@@ -25,5 +25,7 @@ author_profile: true
 
 - Shouvanik Chakrabarti, Andrew M. Childs, Tongyang Li, Xiaodi Wu. <i>Quantum algorithms and lower bounds for convex optimization</i>, Contributed talk at the 22nd Annual Conference on Quantum Information Processing, 2019. [(PDF)](https://arxiv.org/pdf/1908.03903.pdf)
 
+- Shouvanik Chakrabarti, Andrew M. Childs, Shih-Han Hung, Tongyang Li, Chunhao Wang, Xiaodi Wu. <i>Quantum algorithm for estimating volumes of convex bodies</i>, Contributed talk at the 23rd Annual Conference on Quantum Information Processing, 2019. [(PDF)](https://arxiv.org/pdf/1908.03903.pdf)
+
 # Manuscripts
-- Shouvanik Chakrabarti, Andrew M. Childs, Shih-Han Hung, Tongyang Li, Chunhao Wang, Xiaodi Wu. <i>Quantum algorithm for estimating volumes of convex bodies</i>, 2019. [(PDF)](https://arxiv.org/pdf/1908.03903.pdf)
+
